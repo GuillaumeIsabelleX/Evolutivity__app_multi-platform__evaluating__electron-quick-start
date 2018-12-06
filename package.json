@@ -17,9 +17,11 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^3.0.7"
+    "electron": "^3.0.7",
+    "electron-rebuild": "^1.8.2"
   },
   "dependencies": {
+    "idug": "^1.0.3",
     "nodemon": "^1.18.7",
     "tlid": "^1.0.0"
   }

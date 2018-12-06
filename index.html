@@ -34,7 +34,10 @@
 
   <script>
     // You can also require other files to run in this process
-    require('./renderer.js')
+    require('./renderer.js');
+    var tlid = require('tlid');
+    var tlidValue = tlid.get();
+    document.write(`<br> Tlid: ${tlidValue}`);
   </script>
 
 
