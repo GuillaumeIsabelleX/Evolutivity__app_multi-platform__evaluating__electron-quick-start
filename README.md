@@ -1,6 +1,9 @@
 # @stcgoal 1812050643 A windows UI that runs on multiple platforms
 
-___
+## @v Evolutivity of developments
+* @a Platforms we build can run on other platform as we develop them.
+
+---
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
